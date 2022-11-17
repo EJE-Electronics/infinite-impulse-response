@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) EJE Electronics B.V. All rights reserved.
+ *
+ * Licensed under the MIT License.
+ */
+
 #include <gtest/gtest.h>
 
 #include "exponential_moving_average.h"
